@@ -1,0 +1,13 @@
+# OSX
+#
+.DS_Store
+
+# node.js
+#
+node_modules
+uploads
+npm-debug.log
+yarn-error.log
+.env
+env.js
+
